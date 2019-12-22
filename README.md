@@ -1,1 +1,1 @@
-# LenovoB50-80-EFI
+# Lenovo-B50-80-EFI
